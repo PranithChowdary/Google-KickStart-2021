@@ -1,4 +1,4 @@
-# Copyright (c) 2021 kamyu. All rights reserved.
+# Copyright (c) 2021 PranithChowdary. All rights reserved.
 #
 # Google Kick Start 2021 Round A - Problem A. K-Goodness String
 # https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cca3
